@@ -1,4 +1,4 @@
-p {
+.paragraphContainer {
     color: yellow;
     font-size: 20px;
     width: 600px;
@@ -59,7 +59,7 @@ h4 {
     text-align: center;
   }
  
-.sectionTitle {
+span.sectionTitle {
     text-align: center;
     font-size: 25px;
     font-weight: bold;
